@@ -22,7 +22,7 @@ html {
 }
 
 #photo{
-	background-image: url('photo-profile.jpg');
+	background-image: url('../img/photo-profile.jpg');
 	background-position: center;
 	background-size: 150px;
   background-color: #FFF;
